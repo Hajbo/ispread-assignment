@@ -1,0 +1,123 @@
+Ñ2020-12-16 20:33:36.753 [Test worker] INFO  ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active
+∆2020-12-16 20:33:36.781 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - Driver class org.h2.Driver found in Thread context class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057
+k2020-12-16 20:33:36.788 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - HikariPool-1 - configuration:
+s2020-12-16 20:33:36.792 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - allowPoolSuspension.............false
+s2020-12-16 20:33:36.793 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - autoCommit......................false
+r2020-12-16 20:33:36.793 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - catalog.........................none
+r2020-12-16 20:33:36.793 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - connectionInitSql...............none
+r2020-12-16 20:33:36.793 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - connectionTestQuery.............none
+s2020-12-16 20:33:36.794 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - connectionTimeout...............30000
+r2020-12-16 20:33:36.794 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - dataSource......................none
+r2020-12-16 20:33:36.794 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - dataSourceClassName.............none
+r2020-12-16 20:33:36.794 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - dataSourceJNDI..................none
+Å2020-12-16 20:33:36.795 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - dataSourceProperties............{password=<masked>}
+}2020-12-16 20:33:36.795 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - driverClassName................."org.h2.Driver"
+p2020-12-16 20:33:36.796 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - healthCheckProperties...........{}
+r2020-12-16 20:33:36.796 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - healthCheckRegistry.............none
+t2020-12-16 20:33:36.796 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - idleTimeout.....................600000
+o2020-12-16 20:33:36.796 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - initializationFailTimeout.......1
+s2020-12-16 20:33:36.796 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - isolateInternalQueries..........false
+~2020-12-16 20:33:36.797 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - jdbcUrl.........................jdbc:h2:mem:test
+o2020-12-16 20:33:36.797 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - leakDetectionThreshold..........0
+u2020-12-16 20:33:36.797 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - maxLifetime.....................1800000
+o2020-12-16 20:33:36.797 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - maximumPoolSize.................3
+r2020-12-16 20:33:36.798 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - metricRegistry..................none
+r2020-12-16 20:33:36.798 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - metricsTrackerFactory...........none
+o2020-12-16 20:33:36.798 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - minimumIdle.....................3
+v2020-12-16 20:33:36.798 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - password........................<masked>
+|2020-12-16 20:33:36.799 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - poolName........................"HikariPool-1"
+s2020-12-16 20:33:36.799 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - readOnly........................false
+s2020-12-16 20:33:36.799 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - registerMbeans..................false
+r2020-12-16 20:33:36.799 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - scheduledExecutor...............none
+r2020-12-16 20:33:36.799 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - schema..........................none
+v2020-12-16 20:33:36.799 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - threadFactory...................internal
+ã2020-12-16 20:33:36.800 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - transactionIsolation............"TRANSACTION_REPEATABLE_READ"
+r2020-12-16 20:33:36.800 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - username........................none
+r2020-12-16 20:33:36.800 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - validationTimeout...............5000
+k2020-12-16 20:33:36.803 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - HikariPool-1 - configuration:
+s2020-12-16 20:33:36.805 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - allowPoolSuspension.............false
+s2020-12-16 20:33:36.808 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - autoCommit......................false
+r2020-12-16 20:33:36.808 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - catalog.........................none
+r2020-12-16 20:33:36.808 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - connectionInitSql...............none
+r2020-12-16 20:33:36.808 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - connectionTestQuery.............none
+s2020-12-16 20:33:36.809 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - connectionTimeout...............30000
+r2020-12-16 20:33:36.809 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - dataSource......................none
+r2020-12-16 20:33:36.809 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - dataSourceClassName.............none
+r2020-12-16 20:33:36.809 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - dataSourceJNDI..................none
+Å2020-12-16 20:33:36.809 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - dataSourceProperties............{password=<masked>}
+}2020-12-16 20:33:36.809 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - driverClassName................."org.h2.Driver"
+p2020-12-16 20:33:36.809 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - healthCheckProperties...........{}
+r2020-12-16 20:33:36.810 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - healthCheckRegistry.............none
+t2020-12-16 20:33:36.810 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - idleTimeout.....................600000
+o2020-12-16 20:33:36.810 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - initializationFailTimeout.......1
+s2020-12-16 20:33:36.810 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - isolateInternalQueries..........false
+~2020-12-16 20:33:36.810 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - jdbcUrl.........................jdbc:h2:mem:test
+o2020-12-16 20:33:36.810 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - leakDetectionThreshold..........0
+u2020-12-16 20:33:36.810 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - maxLifetime.....................1800000
+o2020-12-16 20:33:36.811 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - maximumPoolSize.................3
+r2020-12-16 20:33:36.811 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - metricRegistry..................none
+r2020-12-16 20:33:36.811 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - metricsTrackerFactory...........none
+o2020-12-16 20:33:36.811 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - minimumIdle.....................3
+v2020-12-16 20:33:36.811 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - password........................<masked>
+|2020-12-16 20:33:36.811 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - poolName........................"HikariPool-1"
+s2020-12-16 20:33:36.811 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - readOnly........................false
+s2020-12-16 20:33:36.812 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - registerMbeans..................false
+r2020-12-16 20:33:36.812 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - scheduledExecutor...............none
+r2020-12-16 20:33:36.812 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - schema..........................none
+v2020-12-16 20:33:36.812 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - threadFactory...................internal
+ã2020-12-16 20:33:36.812 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - transactionIsolation............"TRANSACTION_REPEATABLE_READ"
+r2020-12-16 20:33:36.812 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - username........................none
+r2020-12-16 20:33:36.812 [Test worker] DEBUG com.zaxxer.hikari.HikariConfig - validationTimeout...............5000
+l2020-12-16 20:33:36.814 [Test worker] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+í2020-12-16 20:33:37.016 [Test worker] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:test user=
+q2020-12-16 20:33:37.017 [Test worker] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+ 2020-12-16 20:33:37.049 [Test worker] DEBUG c.zaxxer.hikari.pool.ProxyConnection - HikariPool-1 - Executed rollback on connection conn0: url=jdbc:h2:mem:test user= due to dirty commit state on close().
+û2020-12-16 20:33:37.119 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+§2020-12-16 20:33:37.123 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn1: url=jdbc:h2:mem:test user=
+§2020-12-16 20:33:37.125 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn2: url=jdbc:h2:mem:test user=
+´2020-12-16 20:33:37.125 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - After adding stats (total=3, active=0, idle=3, waiting=0)
+è2020-12-16 20:33:37.681 [Test worker] DEBUG Exposed - CREATE TABLE IF NOT EXISTS USERS (ID INT AUTO_INCREMENT PRIMARY KEY, UUID UUID NOT NULL, USERNAME VARCHAR(50) NOT NULL, EMAIL VARCHAR(100) NOT NULL, "passwordHash" VARCHAR(50) NOT NULL, ADDRESS VARCHAR(200) NOT NULL)
+w2020-12-16 20:33:37.684 [Test worker] DEBUG Exposed - ALTER TABLE USERS ADD CONSTRAINT USERS_UUID_UNIQUE UNIQUE (UUID)
+±2020-12-16 20:33:37.686 [Test worker] DEBUG Exposed - CREATE TABLE IF NOT EXISTS GRANDMAS (ID INT AUTO_INCREMENT PRIMARY KEY, UUID UUID NOT NULL, USERNAME VARCHAR(50) NOT NULL)
+}2020-12-16 20:33:37.687 [Test worker] DEBUG Exposed - ALTER TABLE GRANDMAS ADD CONSTRAINT GRANDMAS_UUID_UNIQUE UNIQUE (UUID)
+ˆ2020-12-16 20:33:37.696 [Test worker] DEBUG Exposed - CREATE TABLE IF NOT EXISTS SPREADS (ID INT AUTO_INCREMENT PRIMARY KEY, UUID UUID NOT NULL, GRANDMA INT NOT NULL, "spreadType" VARCHAR(10) NOT NULL, "NAME" VARCHAR(250) NOT NULL, REMAINING INT NOT NULL, CONSTRAINT FK_SPREADS_GRANDMA_ID FOREIGN KEY (GRANDMA) REFERENCES GRANDMAS(ID) ON DELETE RESTRICT ON UPDATE RESTRICT)
+{2020-12-16 20:33:37.697 [Test worker] DEBUG Exposed - ALTER TABLE SPREADS ADD CONSTRAINT SPREADS_UUID_UNIQUE UNIQUE (UUID)
+∆2020-12-16 20:33:37.701 [Test worker] DEBUG Exposed - CREATE TABLE IF NOT EXISTS USERCARTITEMS (ID INT AUTO_INCREMENT PRIMARY KEY, UUID UUID NOT NULL, SPREAD INT NOT NULL, "USER" INT NOT NULL, QUANTITY INT NOT NULL, CONSTRAINT FK_USERCARTITEMS_SPREAD_ID FOREIGN KEY (SPREAD) REFERENCES SPREADS(ID) ON DELETE RESTRICT ON UPDATE RESTRICT, CONSTRAINT FK_USERCARTITEMS_USER_ID FOREIGN KEY ("USER") REFERENCES USERS(ID) ON DELETE RESTRICT ON UPDATE RESTRICT)
+á2020-12-16 20:33:37.702 [Test worker] DEBUG Exposed - ALTER TABLE USERCARTITEMS ADD CONSTRAINT USERCARTITEMS_UUID_UNIQUE UNIQUE (UUID)
+“2020-12-16 20:33:37.707 [Test worker] DEBUG Exposed - CREATE TABLE IF NOT EXISTS USERWISHLISTITEMS (ID INT AUTO_INCREMENT PRIMARY KEY, UUID UUID NOT NULL, SPREAD INT NOT NULL, "USER" INT NOT NULL, QUANTITY INT NOT NULL, CONSTRAINT FK_USERWISHLISTITEMS_SPREAD_ID FOREIGN KEY (SPREAD) REFERENCES SPREADS(ID) ON DELETE RESTRICT ON UPDATE RESTRICT, CONSTRAINT FK_USERWISHLISTITEMS_USER_ID FOREIGN KEY ("USER") REFERENCES USERS(ID) ON DELETE RESTRICT ON UPDATE RESTRICT)
+è2020-12-16 20:33:37.708 [Test worker] DEBUG Exposed - ALTER TABLE USERWISHLISTITEMS ADD CONSTRAINT USERWISHLISTITEMS_UUID_UNIQUE UNIQUE (UUID)
+å2020-12-16 20:33:37.815 [Test worker @coroutine#2] DEBUG Exposed - INSERT INTO USERS (ADDRESS, EMAIL, "passwordHash", USERNAME, UUID) VALUES ('Budapest 1111', 'test1@bme.hu', 'd1bc2d8b2cc45c8d42d4967cec4afe90628dced5', 'Test1', 'a72d3209-1e69-46c4-9a37-d496fc83123c')
+Ê2020-12-16 20:33:37.831 [Test worker @coroutine#3] DEBUG Exposed - SELECT USERS.ID, USERS.UUID, USERS.USERNAME, USERS.EMAIL, USERS."passwordHash", USERS.ADDRESS FROM USERS WHERE USERS.UUID = 'a72d3209-1e69-46c4-9a37-d496fc83123c'
+å2020-12-16 20:33:37.836 [Test worker @coroutine#4] DEBUG Exposed - INSERT INTO USERS (ADDRESS, EMAIL, "passwordHash", USERNAME, UUID) VALUES ('Budapest 1112', 'test2@bme.hu', '832935ac1bd0b0c2328ba9dace4c67393333c154', 'Test2', '36616175-3700-4285-a0b2-664c7fd3419d')
+Ê2020-12-16 20:33:37.838 [Test worker @coroutine#5] DEBUG Exposed - SELECT USERS.ID, USERS.UUID, USERS.USERNAME, USERS.EMAIL, USERS."passwordHash", USERS.ADDRESS FROM USERS WHERE USERS.UUID = '36616175-3700-4285-a0b2-664c7fd3419d'
+å2020-12-16 20:33:37.846 [Test worker @coroutine#6] DEBUG Exposed - INSERT INTO USERS (ADDRESS, EMAIL, "passwordHash", USERNAME, UUID) VALUES ('Budapest 1113', 'test3@bme.hu', '513c9ce1e9e59c8eec86f4b946df6d29d9e53dd7', 'Test3', '8d50fbda-2a6b-4d66-801a-5665e9ff8ec6')
+Ê2020-12-16 20:33:37.848 [Test worker @coroutine#7] DEBUG Exposed - SELECT USERS.ID, USERS.UUID, USERS.USERNAME, USERS.EMAIL, USERS."passwordHash", USERS.ADDRESS FROM USERS WHERE USERS.UUID = '8d50fbda-2a6b-4d66-801a-5665e9ff8ec6'
+ü2020-12-16 20:33:37.856 [Test worker @coroutine#8] DEBUG Exposed - INSERT INTO GRANDMAS (USERNAME, UUID) VALUES ('G1', '9a7a1b88-8eb4-4ee6-8ead-088e2da73fb4')
+√2020-12-16 20:33:37.860 [Test worker @coroutine#9] DEBUG Exposed - SELECT GRANDMAS.ID, GRANDMAS.UUID, GRANDMAS.USERNAME FROM GRANDMAS WHERE GRANDMAS.UUID = '9a7a1b88-8eb4-4ee6-8ead-088e2da73fb4'
+†2020-12-16 20:33:37.862 [Test worker @coroutine#10] DEBUG Exposed - INSERT INTO GRANDMAS (USERNAME, UUID) VALUES ('G2', '6c245bb2-445f-4d60-b118-dbcba1a5ae8a')
+ƒ2020-12-16 20:33:37.864 [Test worker @coroutine#11] DEBUG Exposed - SELECT GRANDMAS.ID, GRANDMAS.UUID, GRANDMAS.USERNAME FROM GRANDMAS WHERE GRANDMAS.UUID = '6c245bb2-445f-4d60-b118-dbcba1a5ae8a'
+†2020-12-16 20:33:37.866 [Test worker @coroutine#12] DEBUG Exposed - INSERT INTO GRANDMAS (USERNAME, UUID) VALUES ('G3', 'a43741bb-dcec-45eb-ac5e-1d981a86d8a3')
+ƒ2020-12-16 20:33:37.868 [Test worker @coroutine#13] DEBUG Exposed - SELECT GRANDMAS.ID, GRANDMAS.UUID, GRANDMAS.USERNAME FROM GRANDMAS WHERE GRANDMAS.UUID = 'a43741bb-dcec-45eb-ac5e-1d981a86d8a3'
+œ2020-12-16 20:33:37.874 [Test worker @coroutine#14] DEBUG Exposed - INSERT INTO SPREADS (GRANDMA, "NAME", REMAINING, "spreadType", UUID) VALUES (1, 'S1', 100, 'meat', 'b0b76ad6-2da2-4d66-be47-bbbd3783c1a1')
+˜2020-12-16 20:33:37.878 [Test worker @coroutine#15] DEBUG Exposed - SELECT SPREADS.ID, SPREADS.UUID, SPREADS.GRANDMA, SPREADS."spreadType", SPREADS."NAME", SPREADS.REMAINING FROM SPREADS WHERE SPREADS.UUID = 'b0b76ad6-2da2-4d66-be47-bbbd3783c1a1'
+Œ2020-12-16 20:33:37.880 [Test worker @coroutine#16] DEBUG Exposed - INSERT INTO SPREADS (GRANDMA, "NAME", REMAINING, "spreadType", UUID) VALUES (1, 'S2', 0, 'dairy', '20ad7c91-0294-41df-9230-8404bc72fc53')
+˜2020-12-16 20:33:37.882 [Test worker @coroutine#17] DEBUG Exposed - SELECT SPREADS.ID, SPREADS.UUID, SPREADS.GRANDMA, SPREADS."spreadType", SPREADS."NAME", SPREADS.REMAINING FROM SPREADS WHERE SPREADS.UUID = '20ad7c91-0294-41df-9230-8404bc72fc53'
+‘2020-12-16 20:33:37.885 [Test worker @coroutine#18] DEBUG Exposed - INSERT INTO SPREADS (GRANDMA, "NAME", REMAINING, "spreadType", UUID) VALUES (2, 'S3', 100, 'vegetable', '7d0374ac-5c54-4fa4-955d-abaf700545fc')
+˜2020-12-16 20:33:37.887 [Test worker @coroutine#19] DEBUG Exposed - SELECT SPREADS.ID, SPREADS.UUID, SPREADS.GRANDMA, SPREADS."spreadType", SPREADS."NAME", SPREADS.REMAINING FROM SPREADS WHERE SPREADS.UUID = '7d0374ac-5c54-4fa4-955d-abaf700545fc'
+–2020-12-16 20:33:37.889 [Test worker @coroutine#20] DEBUG Exposed - INSERT INTO SPREADS (GRANDMA, "NAME", REMAINING, "spreadType", UUID) VALUES (2, 'S4', 100, 'dairy', 'f2845b0a-2481-4289-8cde-6f5e7a442157')
+˜2020-12-16 20:33:37.891 [Test worker @coroutine#21] DEBUG Exposed - SELECT SPREADS.ID, SPREADS.UUID, SPREADS.GRANDMA, SPREADS."spreadType", SPREADS."NAME", SPREADS.REMAINING FROM SPREADS WHERE SPREADS.UUID = 'f2845b0a-2481-4289-8cde-6f5e7a442157'
+Õ2020-12-16 20:33:37.894 [Test worker @coroutine#22] DEBUG Exposed - INSERT INTO SPREADS (GRANDMA, "NAME", REMAINING, "spreadType", UUID) VALUES (3, 'S5', 0, 'meat', '58fee5fe-c90d-45f9-b641-e927311f110f')
+˜2020-12-16 20:33:37.896 [Test worker @coroutine#23] DEBUG Exposed - SELECT SPREADS.ID, SPREADS.UUID, SPREADS.GRANDMA, SPREADS."spreadType", SPREADS."NAME", SPREADS.REMAINING FROM SPREADS WHERE SPREADS.UUID = '58fee5fe-c90d-45f9-b641-e927311f110f'
+‘2020-12-16 20:33:37.898 [Test worker @coroutine#24] DEBUG Exposed - INSERT INTO SPREADS (GRANDMA, "NAME", REMAINING, "spreadType", UUID) VALUES (3, 'S6', 100, 'vegetable', '3e17293e-2f50-402c-880f-2690576181de')
+˜2020-12-16 20:33:37.900 [Test worker @coroutine#25] DEBUG Exposed - SELECT SPREADS.ID, SPREADS.UUID, SPREADS.GRANDMA, SPREADS."spreadType", SPREADS."NAME", SPREADS.REMAINING FROM SPREADS WHERE SPREADS.UUID = '3e17293e-2f50-402c-880f-2690576181de'
+∏2020-12-16 20:33:37.904 [Test worker @coroutine#26] DEBUG Exposed - INSERT INTO USERCARTITEMS (QUANTITY, SPREAD, "USER", UUID) VALUES (5, 6, 1, 'f3c7500a-1a81-49a5-92d5-097a6ce4e5d2')
+∏2020-12-16 20:33:37.907 [Test worker @coroutine#27] DEBUG Exposed - INSERT INTO USERCARTITEMS (QUANTITY, SPREAD, "USER", UUID) VALUES (3, 1, 1, '5d10cc3f-28a3-4f0d-bc25-f493430177b6')
+π2020-12-16 20:33:37.912 [Test worker @coroutine#28] DEBUG Exposed - INSERT INTO USERCARTITEMS (QUANTITY, SPREAD, "USER", UUID) VALUES (12, 4, 2, '74c7e415-2459-451d-80ed-33fb7576c654')
+π2020-12-16 20:33:37.914 [Test worker @coroutine#29] DEBUG Exposed - INSERT INTO USERCARTITEMS (QUANTITY, SPREAD, "USER", UUID) VALUES (20, 6, 2, '99ce3d89-70f2-4e86-b0e7-9728575e1f82')
+∏2020-12-16 20:33:37.917 [Test worker @coroutine#30] DEBUG Exposed - INSERT INTO USERCARTITEMS (QUANTITY, SPREAD, "USER", UUID) VALUES (2, 3, 3, 'ede76c6a-17b2-4a84-910f-2a0fba8ff079')
+∏2020-12-16 20:33:37.919 [Test worker @coroutine#31] DEBUG Exposed - INSERT INTO USERCARTITEMS (QUANTITY, SPREAD, "USER", UUID) VALUES (1, 1, 3, 'a7c46fe8-e877-4251-aab1-a8e2870b9be7')
+º2020-12-16 20:33:37.922 [Test worker @coroutine#32] DEBUG Exposed - INSERT INTO USERWISHLISTITEMS (QUANTITY, SPREAD, "USER", UUID) VALUES (6, 2, 1, 'b6aa879d-908e-40cc-9358-e7df27f85f68')
+Ω2020-12-16 20:33:37.925 [Test worker @coroutine#33] DEBUG Exposed - INSERT INTO USERWISHLISTITEMS (QUANTITY, SPREAD, "USER", UUID) VALUES (29, 5, 2, 'af83f6b0-cb08-4372-937c-20a8eaab34c2')
+c2020-12-16 20:33:38.189 [DefaultDispatcher-worker-1 @request#34] TRACE ktor.test - 200 OK: GET - /
+w2020-12-16 20:33:38.204 [Test worker] TRACE ktor.test - Application stopping: io.ktor.application.Application@1ad9729d
+v2020-12-16 20:33:38.205 [Test worker] TRACE ktor.test - Application stopped: io.ktor.application.Application@1ad9729d
